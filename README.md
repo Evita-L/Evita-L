@@ -27,6 +27,6 @@ I’ve worked with global teams on large-scale projects, gaining hands-on experi
 I’m always eager to connect with fellow developers to share ideas, collaborate, and innovate. Feel free to reach out! ✉️
 
 ### 📄 CV
+[EvitaLiakopoulouCV.pdf](https://github.com/user-attachments/files/34248591/EvitaLiakopoulouCV.pdf)
 
-[Liakopoulou_Evanthia_CV](https://github.com/user-attachments/files/21855931/Liakopoulou_Evanthia_CV_.pdf)
 ****
