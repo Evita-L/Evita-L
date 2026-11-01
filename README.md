@@ -8,7 +8,7 @@ I’ve worked with global teams on large-scale projects, gaining hands-on experi
 
 ### 🛠️ Skills & Technologies
 
-- 🖥️ **Languages:** C++, C, Java (Spring Boot), Bash scripting  
+- 🖥️ **Languages:** Java (Spring Boot), Bash scripting  
 - 🎨 **Front-end:** Angular  
 - 🗄️ **Databases:** MySQL, PostgreSQL  
 - 🐳 **Tools & Practices:** Docker, Keycloak (authentication), secure & scalable app development  
