@@ -17,7 +17,7 @@ I’ve worked with global teams on large-scale projects, gaining hands-on experi
 
 ### 🌟 Highlight Projects
 
-- 🔐 **Personal Project:** Built a secure, scalable app implementing Keycloak for authentication, MySQL/PostgreSQL databases, and Docker for containerization — covering the full development lifecycle.  
+- 🔐 **Personal Project:** Built a secure, scalable app implementing Keycloak for authentication, MySQL/PostgreSQL databases, and Docker for containerization, covering the full development lifecycle.  
 - 🏆 **Professional Project:** Contributed to a JITC-certified solution, delivering secure and standards-compliant software as part of a collaborative team effort, awarded a Golden Accolade for excellence.  
 
 ---
