@@ -1,6 +1,6 @@
 # Hi there, I’m Evita Liakopoulou 👋
 
-I’m a Software Engineer with a background in **Informatics and Telecommunications** from the University of Peloponnese. From a young age, technology has been my passion, driving me to create and collaborate on impactful software projects. 💻✨
+I’m a Software Engineer with a background in **Computer Science and Telecommunications** from the University of Peloponnese. From a young age, technology has been my passion, driving me to create and collaborate on impactful software projects. 💻✨
 
 I’ve worked with global teams on large-scale projects, gaining hands-on experience in developing and maintaining software solutions across diverse domains. I’m a strong believer in clear communication, teamwork, and continuous learning. 🤝🚀
 
@@ -8,7 +8,7 @@ I’ve worked with global teams on large-scale projects, gaining hands-on experi
 
 ### 🛠️ Skills & Technologies
 
-- 🖥️ **Languages:** Java (Spring Boot), Bash scripting  
+- 🖥️ **Languages:** Java, Spring Boot, Spring AI, Bash scripting  
 - 🎨 **Front-end:** Angular  
 - 🗄️ **Databases:** MySQL, PostgreSQL  
 - 🐳 **Tools & Practices:** Docker, Keycloak (authentication), secure & scalable app development  
